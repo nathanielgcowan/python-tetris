@@ -1,1 +1,3 @@
+# Tetris Heroku deployment
+python-3.13.5
 pygame
